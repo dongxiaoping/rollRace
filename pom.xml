@@ -17,7 +17,7 @@
     <commons-lang3.version>3.1</commons-lang3.version>
     <guava.version>18.0</guava.version>
     <!--db-->
-    <mysql.version>5.1.38</mysql.version>
+    <mysql.version>8.0.28</mysql.version>
     <druid.version>0.2.9</druid.version>
     <!--servlet-->
     <servlet.version>3.1.0</servlet.version>
